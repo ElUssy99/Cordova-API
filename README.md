@@ -1,2 +1,2 @@
 # Cordova-AndroidStudio
-Cordova-AndroidStudio
+MDual
