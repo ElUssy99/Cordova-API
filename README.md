@@ -1,2 +1,2 @@
-# AJAX
-MDual
+# Cordova-AndroidStudio
+Cordova-AndroidStudio
